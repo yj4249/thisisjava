@@ -7,7 +7,7 @@ public class FromIntToFloat {
 		int num2 = 123456780;
 		
 		float num3 = num2;     // num3 = 123456780
-		//double num3 = num2;   float는 8비트라서 저 숫자를 모두 표현못하므로 오류값이 나오는것
+		//double num3 = num2;     
 		num2 = (int) num3;
 		
 		int result = num1 - num2;
