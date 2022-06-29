@@ -1,4 +1,4 @@
-package sec04.exam3_compare;
+package sec04.exam03_compare;
 
 public class CompareOperatorExample1 {
 
